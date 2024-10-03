@@ -25,4 +25,6 @@
     <string name="buy">Beli</string>
     <string name="dummy_value">$735</string>
     <string name="dummy_photos">6 photos</string>
+    <string name="profile_image_desc">Profile Image</string>
+    <string name="image_phone_description">image phone desc\n</string>
 </resources>
